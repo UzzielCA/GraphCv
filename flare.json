@@ -1,5 +1,5 @@
 {
-    "name": "PROYECTOS",
+    "name": "EMPRESAS",
     "children": [
         {
             "name": "Sye Software",
@@ -8,20 +8,23 @@
                     "name": "2015 - 2016",
                     "children": [
                         {
-                            "name": "AgglomerativeCluster",
-                            "size": 3938
-                        },
-                        {
-                            "name": "CommunityStructure",
-                            "size": 3812
-                        },
-                        {
-                            "name": "HierarchicalCluster",
-                            "size": 6714
-                        },
-                        {
-                            "name": "MergeEdge",
-                            "size": 743
+                            "name": "Cliente: NAFIN",
+                            "children": [
+                                {
+                                    "name": "SISTEMAS",
+                                    "children": [
+                                        {
+                                            "name": "SISEC"
+                                        },
+                                        {
+                                            "name": "SIAF"
+                                        },
+                                        {
+                                            "name": "PORTAL FIDUSUARIO"
+                                        }
+                                    ]
+                                }
+                            ]
                         }
                     ]
                 }
@@ -29,12 +32,14 @@
         },
         {
             "name": "Global Gas",
-            "fechaInicio": "2015",
-            "fechaFin": "2015",
             "children": [
                 {
                     "name": "2015 - 2016",
-                    "size": 17010
+                    "children": [
+                        {
+                            "name": "Calculo de ingresos y egresos por dias y por mes"
+                        }
+                    ]
                 }
             ]
         },
@@ -45,8 +50,13 @@
                     "name": "2013 - 2014",
                     "children": [
                         {
-                            "name": "Converters",
-                            "size": 721
+                            "name": "BackOffice"
+                        },
+                        {
+                            "name": "Terminal Punto de venta"
+                        },
+                        {
+                            "name": "eCommerce"
                         }
                     ]
                 }
